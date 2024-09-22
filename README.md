@@ -8,6 +8,8 @@ Human friendly du (disk usage) 💾
 
 <img src="./screen.gif" width="600"></img>
 
+[Check Disk Usage with Terminal](https://dev.to/vladimirvovk/check-disk-usage-with-terminal-1g5k)
+
 ## Quick Start
 
 1. Install [Node.js](https://nodejs.org/en/download/package-manager) or [Bun.sh](https://bun.sh/docs/installation).
@@ -48,5 +50,5 @@ Examples:
 
   $ npx hdu --head 5
 
-  The "--head <n>" option allows the display first <n> results.
+  The "--head <n>" option allows the display of first <n> results.
   ```
